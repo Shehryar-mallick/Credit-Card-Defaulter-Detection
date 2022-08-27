@@ -2,7 +2,8 @@
 
 ## Description:
 
-This is a machine learning project to predict the credit card defaulters of the bank dataset.
+This is a machine learning project to predict the credit card defaulters of the bank dataset namely: 
+default of credit card clients Data Set.
 
 ## Steps Involved:
 
